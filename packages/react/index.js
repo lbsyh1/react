@@ -1,11 +1,3 @@
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- *
- * @flow
- */
 
 // Keep in sync with https://github.com/facebook/flow/blob/main/lib/react.js
 export type StatelessFunctionalComponent<
